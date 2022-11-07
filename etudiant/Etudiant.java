@@ -8,7 +8,11 @@ class Etudiant{
   }
 
   public void travailler(){
-    if()
+    System.out.println(nom + " se met au travail.");
+  }
+
+  public void seReposer(){
+    System.out.println(nom + " se repose.");
   }
   
 }
